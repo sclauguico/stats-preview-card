@@ -13,7 +13,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 
 ## Overview
-<p> This Stats Preview Card SUmmary Component is built using basic HTML and CSS. </p>
+<p> This Stats Preview Card Summary Component is built using basic HTML and CSS. </p>
 
 ### The challenge
 
